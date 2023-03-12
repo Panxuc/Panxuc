@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<div align="center"> <img src="https://metrics.lecoq.io/Panxuc?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
 <!--
 **Panxuc/Panxuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
