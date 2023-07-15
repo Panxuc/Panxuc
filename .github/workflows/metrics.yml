@@ -50,7 +50,6 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
-          plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
@@ -67,5 +66,5 @@ jobs:
           plugin_steam_playtime_threshold: 2
           plugin_steam_recent_games_limit: 1
           plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: 76561198931295053
+          plugin_steam_user: "76561198931295053"
           repositories_forks: yes
