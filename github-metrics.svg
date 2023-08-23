@@ -357,7 +357,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 26 commits)</small>
+                    <small class="h-details">(computed from last 25 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1611,7 +1611,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        29 hours played
+                                        31 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1628,32 +1628,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            7 / 51 achievements unlocked
+                                            9 / 51 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYCB//EACYQAAICAAYBBAMBAAAAAAAAAAECAwQABQYREjEhB0FhgRNxsYL/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQQCBv/EACERAAIBBAIDAQEAAAAAAAAAAAECBAADESESUSIxQRSB/9oADAMBAAIRAxEAPwDjWk9O5XeyGtZtVvyTPy5Hmw6YjoHCo0xkDyGNa0RkHarMdx9b4HqWpqfpsstZism5TkO1BcgnExNEtTJqVlOQu2JGkEoYgoq+AB+z5xDxd2J5Y3XdNKiQ7Fpfzqx4KzEgfcDo5JNXr6X0+JRG1eNZD0hnIJ+t8G6q07ldDILdirV4TJx4tzY7bsB7nEpHEtzJbdp+RuQTK7Skkl1bxsfkHzips2prnps8thi0mwUse2AkABwFXQjyzuhJMSXZuqI6qeDMpAHzI6GCDSOj68VvRsNeZeUUokVx/o4nswy2OrWXK81mNcQuzVLfEsjqe1O3RwlpHUGWUchgr2rQjmUsSpRj22/sMJWtS6fswtFZsxyxHtWiYj+Yzl1c6OM1VxhSoNoNdUOFA2R0NHYPvfYNTVDLkt1jlWUymdZZFe3b4FUVR0o37xSatrR1dG2a8A4xRIiqPgMMaq6j09VhWKtZiiiHSrGwH8wZqvUeV3sitVqlrnM/HYcGG+zAnyR8YXm7jRxmmFgxIV0C6pcoRojo4A3n3/Sa/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHAf/EACwQAAIBAwMCAwgDAAAAAAAAAAECBAMGEQAFEhMxQVGhFiEmQlKisvBhYoL/xAAXAQEBAQEAAAAAAAAAAAAAAAAABQMH/8QAIBEAAgEEAgMBAAAAAAAAAAAAAQIEAAMRMSEiBRIUJP/aAAwDAQACEQMRAD8AjVp25tc7YY0mVG6lZ+XJubDsxHYHRh7U2NULNCVVUZLdRgB66yxPfbEMfy4+46S5zbjcVxVotN3K9RgFyeFNAcZI/c6n93du2AK6IzRIcGO3zh3cDAwOTgbOKc1tPYqiK6RAUYZBWq2D66FXVbu1wNglyIsXhWTjxbmxxlgPE6AoNxte4KNDrOaLOMd+FVCfL9wdOt8j4YnAf1/Madkde2QaKYkuHI/OEuWwcjA4ODo4rLCx7MQ8fU/5HU9jyWiXGKjVWp0xJy5BwOPPx8xpttC4Nrg7HHjy5Qp1kZiVKMcZbPgNIO4utSdIdDyRqjFT2yCda2kPu+RupHlpdv44htMCyjkA64G6J71MEu5a1WjWarQ6/KmcnGMjtnVBvkZtif8A5P3jUnpP06iMewIPrqg3Xce1zthlRosnnWqccLwYfMCe40uofZMDVPEzbZjTDeYBnHAzskNqv//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Trusty Steed</div>
+                                                <div>Pony Up</div>
                                                 <div class="unlocked">23 Aug 2023</div>
                                             </div>
-                                            <div class="description">Reach max bonding level with a horse.</div>
+                                            <div class="description">Spend $5000 across all shops.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAgUGAwQH/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBBESAAUGITFBEyJRFCMyQlKBodH/xAAZAQABBQAAAAAAAAAAAAAAAAABAAIDBQf/xAAkEQACAAUDBAMAAAAAAAAAAAABAgADBBEhEiJBFGFxgTFC4f/aAAwDAQACEQMRAD8A41xPjm112w01TVU3qTPlk2bDsxHYHTGu49x6jjjkqaQRo7rGGza1z2v10XDHaPiNO6qHK5kLkFv7j5PQanJnbft1qKPbi8An+5NDKwZEdeuakX/r51X7mds4EaIelpqKQFkq0x1FsDJt4zn5zfmKKPjOwTSzxx0t3gYLIBI3tJF/n40u5Vx3a6DYKuopaXCZMcWzY2uwHk6W7h9Zs+5LT12M8UspqhaXBJmv+snwLdtUHKJ3qeFVM0jQF3CFvQfNfzHQHzpblZTquDA1UlRT1CGQqOit9RjB7eOe+IPhUMU/EqaKZFkjYvkri4PuOk9Vt1bS8joGokp6R5pSI4adQcYh+TOfN9Z+I8g2yh2GCnqqoRzKWJUox7tfwNNjyrYg+ZrFzAxv6bXt8du2gdau1hEqdDU0UgPOVWULyAcW9/uYmJNu3Hfp6GurHkMcpaEskYIhZWIF1/af91Qcpgan4XUxOYi6KlzFHgp9464+NbCcq2NRZa1FHU2EbDv/ABpRyvke112xVVNSVWcz42GDC9mBPUjRBdmXbYAwxkoaWmnsJ4d3U3OoXJt55PuP/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABAMFBgEH/8QAKRAAAQMEAgECBgMAAAAAAAAAAQIDBAUGERIAITFBgRQVUWFxoRNCUv/EABgBAAIDAAAAAAAAAAAAAAAAAAEEAgMH/8QAIREAAgEEAgIDAAAAAAAAAAAAAQIRAAMEIRIxIkFRofD/2gAMAwEAAhEDEQA/APGrTtylzqDGkyo38jy9tlbqHhRHgHj59CtmClJmNMsA+NnVAn8DPOWrJEOyESVDYMocXj64UeZb5c5JS5VrhcdQ24dgkpIUoHxjrx31j6e/EByZzLECa0B3x8bEsrbsKzsoJJAgCOya08KiWvUCfg0tPEDJSh5WR7Zzwl1W7S4FAlyIkXR5Guqt1HGVAep5BAiU+dBLtHR8PJbUVNuBWikrAwAVKPSfUjsnP25YV6YahYTkogBTiEbgf6CwD+xweQcQTE1IDGv4l3lZQNwYgqNGB61II1Qbdg1SbaqGI8uIiI8FoKXGiVDJOe+BCZb7LlMnvQozjCSFIdbOy0pHSgrPeT4xyztG4KZBoLEeVKDbySolJQo+VZ9Bx06vW1NSBMdZfCfG7KiR+OuEs4Y+P1VKY+JexLTDIAbiAQW1EddyP2qrIgFEjLhNFmROUoobbaAWVLIyCpJ/rgjvOQQfTj69B+X2E5FJBU0hGxHgq3BP7PJINbtiDkw3GGCryUtKBPvjPA3XcdLnUKVGiSt3l64GihnCgT2R9uDyZxo90xGJj4l2byk8GVQGBgH18knXqv/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>To Greener Pastures</div>
-                                                <div class="unlocked">21 Aug 2023</div>
+                                                <div>Settling Feuds</div>
+                                                <div class="unlocked">23 Aug 2023</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+5 others...</div>
+                                            <div class="description ellipsis">+7 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1729,7 +1729,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Aug 2023, 18:15:20 (timezone Etc/GMT-8) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 Aug 2023, 00:18:44 (timezone Etc/GMT-8) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
