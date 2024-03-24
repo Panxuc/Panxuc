@@ -1,3 +1,64 @@
-<h3 lang="ja">ご注文はＸｕｃですか？</h3>
+# Xuc Pan
 
 ![Metrics](github-metrics.svg)
+
+## Coding In
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+
+## Coding On
+
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
+![Debian](https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+
+## Coding With
+
+![Arduino](https://img.shields.io/badge/-arduino-00979D?logo=Arduino&logoColor=white)
+![Aseprite](https://img.shields.io/badge/aseprite-FFFFFF?logo=Aseprite&logoColor=#7D929E)
+![ChatGPT](https://img.shields.io/badge/chatgpt-74aa9c?logo=openai&logoColor=white)
+![CLion](https://img.shields.io/badge/clion-black?logo=clion&logoColor=white)
+![Dependabot](https://img.shields.io/badge/dependabot-025E8C?logo=dependabot&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
+![.Net](https://img.shields.io/badge/dotnet-5C2D91?logo=.net&logoColor=white)
+![Excel](https://img.shields.io/badge/excel-217346?logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
+![Gitea](https://img.shields.io/badge/gitea-34495E?logo=gitea&logoColor=5D9425)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?logo=gitlab&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/godot-%23FFFFFF.svg?logo=godot-engine)
+![Itch.io](https://img.shields.io/badge/itch-%23FF0B34.svg?logo=Itch.io&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/libreoffice-%2318A303?logo=LibreOffice&logoColor=white)
+![MariaDB](https://img.shields.io/badge/mariadb-003545?logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?logo=npm&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Rider](https://img.shields.io/badge/rider-000000.svg?logo=Rider&logoColor=white&color=black&labelColor=crimson)
+![Rss](https://img.shields.io/badge/rss-F88900?logo=rss&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)
+![Spotify](https://img.shields.io/badge/spotify-1ED760?logo=spotify&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?logo=steam&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?logo=unity&logoColor=white)
+![Vim](https://img.shields.io/badge/vim-%2311AB00.svg?logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/visual%20studio-5C2D91.svg?logo=visual-studio&logoColor=white)
+![Word](https://img.shields.io/badge/word-2B579A?logo=microsoft-word&logoColor=white)
+![WordPress](https://img.shields.io/badge/wordpress-%23117AC9.svg?logo=WordPress&logoColor=white)
+![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?logo=xbox&logoColor=white)
