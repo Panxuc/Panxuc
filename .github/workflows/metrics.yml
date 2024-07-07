@@ -46,13 +46,14 @@ jobs:
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_ignored: jupyter notebook
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_skipped: open531/XPrism
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_analysis_timeout_repositories: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_details: lines, bytes-size
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 10
+          plugin_languages_indepth: no
+          plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
