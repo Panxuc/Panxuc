@@ -3,7 +3,7 @@
 🎓 I'm currently studying at Dept. Electronic Engineering at Tsinghua Univ.\
 🌱 Feel free to contact me at panxuc@panxuc.com.
 
-![Metrics](https://cdn.jsdelivr.net/gh/Panxuc/Panxuc@latest/github-metrics.svg)
+![Metrics](github-metrics.svg)
 
 ### Working In
 
