@@ -5,14 +5,8 @@
 
 ![Metrics](github-metrics.svg)
 
-### Working In
+### Currently Working ...
 
-![](https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,react,matlab)
-
-### Working With
-
-![](https://skillicons.dev/icons?i=arduino,dotnet,flask,godot,pytorch,sklearn,tensorflow,unity)
-
-### Working On
-
-![](https://skillicons.dev/icons?i=arch,debian,linux,raspberrypi,ubuntu,windows)
+|                                                      In                                                       |                                                                 With                                                                  |                                                      On                                                       |
+| :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| ![](https://go-skill-icons.vercel.app/api/icons?i=assembly,c,cpp,cs,java,js,matlab,python,react,ts&perline=4) | ![](https://go-skill-icons.vercel.app/api/icons?i=arduino,docker,dotnet,godot,huggingface,pytorch,sklearn,tensorflow,unity&perline=4) | ![](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,linux,raspberrypi,ubuntu,windows,wsl&perline=3) |
