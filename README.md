@@ -7,6 +7,8 @@
 
 ### Currently Working ...
 
-|                                                      In                                                       |                                                                 With                                                                  |                                                      On                                                       |
-| :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
-| ![](https://go-skill-icons.vercel.app/api/icons?i=assembly,c,cpp,cs,java,js,matlab,python,react,ts&perline=4) | ![](https://go-skill-icons.vercel.app/api/icons?i=arduino,docker,dotnet,godot,huggingface,pytorch,sklearn,tensorflow,unity&perline=4) | ![](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,linux,raspberrypi,ubuntu,windows,wsl&perline=3) |
+|                                                   In                                                    |                                                                        With                                                                        |                                                On                                                |
+| :-----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
+| ![](https://go-skill-icons.vercel.app/api/icons?i=assembly,c,cpp,cs,java,js,matlab,python,ts&perline=4) | ![](https://go-skill-icons.vercel.app/api/icons?i=arduino,docker,dotnet,godot,huggingface,nextjs,pytorch,react,sklearn,tensorflow,unity&perline=4) | ![](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,kali,raspberrypi,ubuntu&perline=4) |
+
+![](https://komarev.com/ghpvc/?username=panxuc)
